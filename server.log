@@ -1,0 +1,82 @@
+INFO:     Will watch for changes in these directories: ['/Users/vikrant/Downloads/tijarah proj']
+INFO:     Uvicorn running on http://127.0.0.1:8002 (Press CTRL+C to quit)
+INFO:     Started reloader process [51154] using StatReload
+/Users/vikrant/Downloads/tijarah proj/chatbot.py:6: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+INFO:     Started server process [51163]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+✅ Supabase has 101 documents in the vector table.
+Performing vector search for: 'هل يمكنني إصدار فواتير'
+Using Arabic vectorstore (table: arabic_documents)
+Found FAQ match: ﻿ID: 12
+Question: هل يمكنني قبول المدفوعات بالبطاقات والمحافظ؟
+Answer: نعم، يدعم Tijarah360 أوضاع دف...
+INFO:     127.0.0.1:49549 - "POST /rag_chat HTTP/1.1" 200 OK
+Performing vector search for: 'هل يمكن قبول المدفوعات بالبطاقة والمحفظة؟'
+Using Arabic vectorstore (table: arabic_documents)
+Found FAQ match: ﻿ID: 71
+Question: هل يدعم النظام محافظ العملاء؟
+Answer: نعم، يمكن شحن محفظة العميل واستخدامها للمدفو...
+INFO:     127.0.0.1:49560 - "POST /rag_chat HTTP/1.1" 200 OK
+Performing vector search for: 'what is tijarah360'
+Using English vectorstore (table: documents)
+Found FAQ match: Question: What is Tijarah360?
+Answer: Tijarah360 is a powerful POS and business management platform ...
+Google Translate API key may be invalid or disabled: 403 Client Error: Forbidden for url: https://translation.googleapis.com/language/translate/v2?key=AIzaSyDIXC_tbd9VpaIHxrnKblSiqvYGLEA8Ky8
+INFO:     127.0.0.1:49638 - "POST /rag_chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49795 - "POST /rag_chat HTTP/1.1" 422 Unprocessable Content
+Performing vector search for: 'ما هو Tijarah360'
+Using English vectorstore (table: documents)
+Found FAQ match: Question: What is Tijarah360?
+Answer: Tijarah360 is a powerful POS and business management platform ...
+Google Translate API key may be invalid or disabled: 403 Client Error: Forbidden for url: https://translation.googleapis.com/language/translate/v2?key=AIzaSyDIXC_tbd9VpaIHxrnKblSiqvYGLEA8Ky8
+INFO:     127.0.0.1:49827 - "POST /rag_chat HTTP/1.1" 200 OK
+Performing vector search for: 'هل يمكن للعملاء طلب عبر رمز'
+Using Arabic vectorstore (table: arabic_documents)
+Found FAQ match: ﻿ID: 48
+Question: هل هناك خيارات لآراء العملاء؟
+Answer: نعم، يمكنك تفعيل نماذج ملاحظات العملاء بعد ا...
+INFO:     127.0.0.1:49902 - "POST /rag_chat HTTP/1.1" 200 OK
+Performing vector search for: 'ما هو Tijarah360'
+Using English vectorstore (table: documents)
+Found FAQ match: Question: What is Tijarah360?
+Answer: Tijarah360 is a powerful POS and business management platform ...
+Google Translate API key may be invalid or disabled: 403 Client Error: Forbidden for url: https://translation.googleapis.com/language/translate/v2?key=AIzaSyDIXC_tbd9VpaIHxrnKblSiqvYGLEA8Ky8
+INFO:     127.0.0.1:49974 - "POST /rag_chat HTTP/1.1" 200 OK
+Performing vector search for: 'هل يمكن للعملاء طلب عبر رمز'
+Using Arabic vectorstore (table: arabic_documents)
+Found FAQ match: ﻿ID: 48
+Question: هل هناك خيارات لآراء العملاء؟
+Answer: نعم، يمكنك تفعيل نماذج ملاحظات العملاء بعد ا...
+INFO:     127.0.0.1:50255 - "POST /rag_chat HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'langchain_chain.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [51163]
+/Users/vikrant/Downloads/tijarah proj/chatbot.py:6: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+INFO:     Started server process [61573]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [61573]
+/Users/vikrant/Downloads/tijarah proj/chatbot.py:6: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+INFO:     Started server process [71387]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [71387]
+/Users/vikrant/Downloads/tijarah proj/chatbot.py:6: LangChainDeprecationWarning: Please see the migration guide at: https://python.langchain.com/docs/versions/migrating_memory/
+  memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
+INFO:     Started server process [72401]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

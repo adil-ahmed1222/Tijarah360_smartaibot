@@ -1,0 +1,103 @@
+ID,Question,Answer,Tags
+1,What is Tijarah360?,Tijarah360 is a powerful POS and business management platform designed for retail and restaurant businesses in Saudi Arabia.,"introduction, platform"
+2,Is Tijarah360 ZATCA compliant?,"Yes, Tijarah360 is fully compliant with ZATCA Phase 1 & Phase 2 e-invoicing regulations in Saudi Arabia.","ZATCA, compliance"
+3,Can I generate QR invoices?,Absolutely. Tijarah360 allows digital QR invoices that meet local regulatory standards.,"billing, qr, e-invoice"
+4,What are the subscription plans available?,"Tijarah360 offers two main plans: SAR 499 and SAR 999, with both monthly and yearly options.","pricing, plans"
+5,What is included in the SAR 499 plan?,"The SAR 499 plan includes POS billing, inventory, QR ordering, and basic insights—ideal for small outlets.","pricing, features"
+6,Can I use Tijarah360 for takeaway orders?,"Yes, the system supports takeaway with QR ordering, KOT printing, and customer updates via SMS or email.","takeaway, ordering"
+7,Does Tijarah360 support modifiers in orders?,"Yes. You can add modifiers like ""No onions"" or ""Extra cheese"" for menu items.","restaurant, modifiers"
+8,Can I split and merge tables?,Yes. Tijarah360 supports table-wise order-taking with split and merge functionality.,"table, dine-in"
+9,How does Tijarah360 help with inventory?,"It tracks stock in real-time, alerts on low inventory, and manages purchase orders and GRNs.","inventory, alerts"
+10,Can I manage multiple kitchens?,"Yes, Tijarah360 allows assigning items to specific kitchens with auto KOT generation.","kitchen, KOT"
+11,Is there a loyalty program?,Yes. You can enable customer loyalty and points-based rewards to drive repeat business.,"loyalty, marketing"
+12,Can I accept card and wallet payments?,"Yes. Tijarah360 supports multiple payment modes: cash, card, wallet, and split billing.","payments, flexibility"
+13,Are reports available in the system?,"You get daily sales, item-wise, staff-wise, and profit reports. Everything is downloadable.","reports, insights"
+14,Can I send invoices via email or SMS?,Yes. You can automate sending invoices and updates to customers via email or SMS.,"notifications, invoices"
+15,How can I create discounts or combo offers?,"Go to Promotions > Add New. You can create percentage, flat, and combo offers easily.","promotions, marketing"
+16,Is Tijarah360 cloud-based?,Yes. You can access and manage your business from any device with internet connectivity.,"cloud, mobility"
+17,Can I use the system on mobile?,"Yes, Tijarah360 supports Pocket POS for billing and order-taking from mobile devices.","POS, mobile"
+18,How can I add a new staff member?,Go to Staff Settings > Add User. Assign roles and access permissions from there.,"user, access"
+19,What devices are compatible?,"Tijarah360 works with Imin M2 Max, barcode scanners, Android tablets, and mobile phones,Sumni V2s","devices, compatibility"
+20,Can I track profits and stock value?,"Yes, you get a clear view of profit margins and current stock value in the dashboard.","reports, analytics"
+21,Does Tijarah360 support cloud kitchen operations?,"Yes, it supports cloud kitchens with online order management, KOT printing, and delivery tracking."
+22,How can I set up product categories?,Go to Catalog > Category Management > Add Category. You can assign products to these categories.
+23,Can I customize the receipt format?,"Yes, you can include logos, business name, tax details, and custom footer messages."
+24,Is there support for Arabic language?,"Yes, the entire POS system—including UI, receipts, and invoices—is bilingual: Arabic and English."
+25,Does Tijarah360 offer real-time analytics?,"Yes, the dashboard provides real-time sales, inventory, and customer analytics."
+26,Can I print kitchen tickets automatically?,"Yes, KOT (Kitchen Order Tickets) are generated automatically based on kitchen assignments."
+27,How can I apply taxes or service charges?,Taxes and service charges can be set under Settings > Taxes & Charges.
+28,What happens when stock is low?,The system alerts you with a low-stock notification and allows reordering directly.
+29,Can I see which staff handled which order?,"Yes, each transaction is logged with staff details for accountability."
+30,Does the system support returns and refunds?,"Yes, products can be returned or refunded directly from the billing screen."
+31,How do I apply discounts at the counter?,You can apply percentage or flat discounts directly during checkout.
+32,Can I restrict staff access to sensitive features?,"Yes, user roles can be customized with permission control per staff member."
+33,Is it possible to set time-based offers?,"Yes, you can create limited-time promotions and happy-hour deals."
+34,Can I upload bulk products via Excel?,"Yes, go to Product Import section and upload your Excel file."
+35,Does the POS system work offline?,"Yes, core billing functions work offline, and sync when reconnected."
+36,Can customers place orders via QR code?,"Yes, QR-based self-ordering is supported for takeaway and dine-in."
+37,Does the system work for supermarkets?,"Yes, Tijarah360 is used in supermarkets with barcode scanning and inventory."
+38,How can I manage raw materials in kitchen?,"Use the Recipe Module to define ingredients, quantities, and usage."
+39,Is VAT automatically calculated?,"Yes, VAT is auto-calculated based on Saudi Arabia's tax regulations."
+40,Does Tijarah360 support multi-branch businesses?,"Yes, you can manage multiple outlets from a centralized dashboard."
+41,Can I track stock movement?,"Yes, view purchase, sales, and wastage movements in the inventory module."
+42,Can I create combo meals or product bundles?,"Yes, combos can be created by grouping items into a single offering."
+43,What happens if internet goes down?,The system continues offline billing and syncs when internet is restored.
+44,Is Tijarah360 hardware-dependent?,"No, it runs on Android devices, laptops, tablets, and POS terminals."
+45,Can I integrate my existing printer?,"Yes, most Bluetooth and network thermal printers are compatible."
+46,How do I train staff quickly?,"Tijarah360 offers in-app guides, training videos, and customer support."
+47,Can I run promotions for specific categories?,"Yes, category-specific promotions can be set with start/end dates."
+48,Are there customer feedback options?,"Yes, you can enable post-bill SMS/Email feedback forms."
+49,How are delivery charges handled?,Delivery charges can be added manually or auto-calculated.
+50,Can I export reports to Excel?,"Yes, all reports—sales, inventory, profits—can be downloaded as Excel files."
+51,Can I manage suppliers and purchases in Tijarah360?,"Yes, you can add suppliers, create purchase orders, and track goods received through the Purchase & GRN modules."
+52,How do I know which products sell best?,Use item-wise sales reports to identify your top-performing products and plan accordingly.
+53,Can Tijarah360 handle service-based businesses?,"Yes, it supports both product and service billing with customizable entries."
+54,Is customer data stored securely?,"Yes, all customer and sales data are securely stored and backed up on the cloud."
+55,Can I view historical transaction data?,"Yes, you can filter and access past transactions by date, user, or invoice number."
+56,How can I switch between languages?,Go to System Settings > Language to switch between Arabic and English.
+57,Can I generate tax reports?,"Yes, VAT-compliant tax reports are available for download to support ZATCA audits."
+58,How can I monitor delivery progress?,"Orders can be tracked in real-time, and delivery statuses are updated on the dashboard."
+59,Does the POS support multiple currencies?,"Tijarah360 currently supports Saudi Riyal (SAR), but multi-currency can be enabled on request."
+60,What kind of user roles can I create?,"You can create roles like cashier, admin, kitchen staff, inventory manager, etc., with custom permissions."
+61,Can I archive old or unused products?,"Yes, outdated SKUs can be archived without deleting them from the database."
+62,How do I handle end-of-day reports?,"The system generates daily closing reports including sales, cash flow, and profit."
+63,Can I integrate with accounting software?,"Yes, integration with external accounting platforms is available via APIs or export."
+64,Does Tijarah360 offer API access?,"Yes, developers can use the API for third-party integrations and automation."
+65,How are purchase returns handled?,Returned items to suppliers can be managed from the Purchase Return module.
+66,Can I schedule system backups?,Data backups are automatically maintained daily through secure cloud storage.
+67,Is there support for franchise operations?,"Yes, multi-brand and franchise models can be managed under one platform."
+68,How can I prevent duplicate entries?,System checks prevent duplicate products or barcode entries during input.
+69,Can I set user activity logs?,"Yes, all major actions by users are tracked in the Activity Log for transparency."
+70,What if the printer stops working?,Billing continues digitally and invoices can be emailed or reprinted later.
+71,Does the POS support customer wallets?,"Yes, customer wallet balance can be added and used for future purchases."
+72,Can I send SMS alerts for promotions?,"Yes, SMS campaigns can be run directly to your customer list with custom messages."
+73,Does Tijarah360 work for food trucks?,"Yes, mobile-friendly POS works perfectly for food trucks and pop-up outlets."
+74,Can I access Tijarah360 on a browser?,"Yes, full access is available via browser from any internet-connected device."
+75,How can I log complaints or feedback?,Go to Support > Raise Ticket or contact the WhatsApp support line directly.
+76,Can customers pre-order items?,"Yes, pre-orders can be placed and tracked for future pickup or delivery."
+77,Is there biometric login for staff?,Biometric authentication is supported on compatible devices.
+78,Can I schedule staff shifts?,"Yes, shift scheduling and attendance tracking are available for registered staff."
+79,How are combo meals billed?,Combo meals are treated as a single item with internal price split across components.
+80,Does Tijarah360 support weigh-scale billing?,"Yes, integrated weigh-scale devices can directly input weights during billing."
+81,How do I add customer details at checkout?,"During billing, click ""Add Customer"" to enter name, phone, or loyalty ID."
+82,Can I export customer lists?,"Yes, customer data with email, phone, and purchase history can be exported to Excel."
+83,How are special instructions handled in KOT?,"Special notes can be added per item, and they will reflect in the KOT print."
+84,How is billing handled for different tax slabs?,Taxes can be customized per product or service as required.
+85,Can I restrict cashiers from offering discounts?,"Yes, permissions can be set so only managers can approve manual discounts."
+86,What kind of training support is offered?,"You get video tutorials, onboarding documents, and live Zoom sessions if needed."
+88,Is auto-billing supported for subscriptions?,Tijarah360 can auto-generate recurring invoices for subscription-type services.
+89,Does the system support Arabic keyboard input?,"Yes, Arabic can be entered across all forms including product names and notes."
+90,How can I back up my product list?,Export the full product list in Excel from the Inventory > Product Export section.
+91,Can I categorize expenses?,"Yes, operational expenses like rent, utilities, etc., can be tracked with tags."
+92,How are damaged goods recorded?,Mark them under Inventory > Wastage/Breakage for loss tracking.
+93,Does the system support loyalty QR codes?,"Yes, loyalty programs can include QR codes linked to the customer profile."
+94,Can I set alerts for expiry dates?,"Yes, expiration dates can be added to items and alerts shown when near expiry."
+95,Is there a notification system for low battery or errors?,"On mobile POS, alerts are shown for battery, connectivity, and device issues."
+96,Can I access old invoices anytime?,"Yes, invoices are archived and searchable by customer, item, or date."
+97,How can I handle promotions with minimum purchase value?,Set minimum order value under Promotions > Conditions.
+98,Can I apply different tax rates for dine-in and takeaway?,"Yes, tax rules can be configured based on order type."
+99,How do I print duplicate receipts?,"Go to Billing History, select the invoice, and click ""Reprint.""
+100,Is 24/7 customer support available?,"Tijarah360 offers 24/7 WhatsApp, call, and email support for all plans."
+103,How can I generate a bill in Tijarah360?,"In the POS screen, scan or search products, add to cart, choose payment mode (cash/card/wallet), then click ""Generate Bill"" to print or email invoice."
+104,How to add a printer on Tijarah360?,"1. First, download and install the Super Printer software. 2. Open the Super Printer app. 3. Go to the Printers section and click the ""Add"" button. 4. Fill in the printer details such as: Printer Name, Printer Size, Width, Characters Per Line, and Number of Copies (1–3). 5. Select required features: Enable for Receipts, KOT (Kitchen Order Tickets), or Barcodes. 6. Click ""Save"" to complete the setup."
+105,Does tijarah360 supports multi-kicthen ,Yes Tijarah360 supports and KOT splitting
